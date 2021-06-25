@@ -16,7 +16,6 @@ import com.badlogic.gdx.utils.ScreenUtils;
 import com.badlogic.gdx.utils.SortedIntList;
 import com.badlogic.gdx.utils.TimeUtils;
 
-import javax.xml.soap.Text;
 import java.util.Iterator;
 
 public class MyGdxGame extends ApplicationAdapter {
